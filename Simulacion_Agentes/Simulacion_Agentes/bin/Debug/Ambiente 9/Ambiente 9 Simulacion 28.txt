@@ -1,0 +1,46 @@
+Creando corral
+Se ubica corral vacio en la posicion (1,1)
+Se ubica corral vacio en la posicion (1,2)
+Se ubica corral vacio en la posicion (2,2)
+Creando ninos
+Se ubica niño en la posicion (4,0)
+Se ubica niño en la posicion (2,0)
+Se ubica niño en la posicion (0,0)
+Creando suciedad inicial
+Creando obstaculos
+Se ubica obstaculo en la posicion (0,2)
+Ubicando Robots
+Se ubica el Robot en la posicion (4,2)
+Se ubica el Robot en la posicion (1,0)
+El Robot se mueve a la posicion (4,2)
+El Robot se mueve y carga al niño de la posicion (2,0)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (4,0) no se mueve
+El niño de la posicion (0,0) no se mueve
+El Robot se mueve y carga al niño de la posicion (4,0)
+El Robot llega al corral de la posicion (1,1)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (0,0) no se mueve
+Se crea suciedad en la posicion (2,0)
+El Robot llega al corral de la posicion (2,2)
+El Robot deja al niño en el corral de la posicion (1,1)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (0,0) no se mueve
+Se crea suciedad en la posicion (0,1)
+El Robot deja al niño en el corral de la posicion (2,2)
+El Robot se mueve y carga al niño de la posicion (0,0)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (2,2)
+El Robot llega al corral de la posicion (1,2)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (2,0) donde hay suciedad
+El Robot deja al niño en el corral de la posicion (1,2)
+Ocurre un cambio Natural De Ambiente
+El Robot limpia la suciedad de la posicion (2,0)
+El Robot se mueve a la posicion (0,1) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (2,0)
+El Robot limpia la suciedad de la posicion (0,1)
+Ocurre un cambio Natural De Ambiente
+El robot cumplio con su objetivo.
+Termina Simulacion

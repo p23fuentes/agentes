@@ -1,0 +1,6 @@
+C:\Users\PabloAdrianFuentes\Desktop\Modelos\Programa\Simulacion_Agentes\Simulacion_Agentes\bin\Debug\Simulacion_Agentes.exe.config
+C:\Users\PabloAdrianFuentes\Desktop\simulacion\Simulacion_Agentes\Simulacion_Agentes\bin\Debug\Simulacion_Agentes.exe.config
+C:\Users\PabloAdrianFuentes\Desktop\simulacion\Simulacion_Agentes\Simulacion_Agentes\bin\Debug\Simulacion_Agentes.exe
+C:\Users\PabloAdrianFuentes\Desktop\simulacion\Simulacion_Agentes\Simulacion_Agentes\bin\Debug\Simulacion_Agentes.pdb
+C:\Users\PabloAdrianFuentes\Desktop\simulacion\Simulacion_Agentes\Simulacion_Agentes\obj\Debug\Simulacion_Agentes.exe
+C:\Users\PabloAdrianFuentes\Desktop\simulacion\Simulacion_Agentes\Simulacion_Agentes\obj\Debug\Simulacion_Agentes.pdb

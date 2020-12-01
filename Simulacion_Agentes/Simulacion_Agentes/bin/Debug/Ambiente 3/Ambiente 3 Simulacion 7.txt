@@ -1,0 +1,490 @@
+Creando corral
+Se ubica corral vacio en la posicion (9,1)
+Se ubica corral vacio en la posicion (9,2)
+Se ubica corral vacio en la posicion (9,3)
+Se ubica corral vacio en la posicion (9,4)
+Se ubica corral vacio en la posicion (9,5)
+Se ubica corral vacio en la posicion (9,6)
+Se ubica corral vacio en la posicion (9,7)
+Se ubica corral vacio en la posicion (9,8)
+Se ubica corral vacio en la posicion (9,9)
+Se ubica corral vacio en la posicion (9,10)
+Creando ninos
+Se ubica niño en la posicion (1,14)
+Se ubica niño en la posicion (8,14)
+Se ubica niño en la posicion (8,8)
+Se ubica niño en la posicion (7,3)
+Se ubica niño en la posicion (5,7)
+Se ubica niño en la posicion (11,5)
+Se ubica niño en la posicion (1,9)
+Se ubica niño en la posicion (9,12)
+Se ubica niño en la posicion (7,6)
+Se ubica niño en la posicion (2,9)
+Creando suciedad inicial
+Se crea suciedad en la posicion (0,12)
+Se crea suciedad en la posicion (0,6)
+Se crea suciedad en la posicion (14,3)
+Se crea suciedad en la posicion (1,0)
+Se crea suciedad en la posicion (12,5)
+Se crea suciedad en la posicion (2,13)
+Se crea suciedad en la posicion (11,0)
+Se crea suciedad en la posicion (10,8)
+Se crea suciedad en la posicion (5,5)
+Se crea suciedad en la posicion (12,3)
+Se crea suciedad en la posicion (11,10)
+Se crea suciedad en la posicion (12,8)
+Se crea suciedad en la posicion (0,3)
+Se crea suciedad en la posicion (13,1)
+Se crea suciedad en la posicion (0,5)
+Se crea suciedad en la posicion (6,7)
+Se crea suciedad en la posicion (3,14)
+Se crea suciedad en la posicion (10,6)
+Se crea suciedad en la posicion (4,2)
+Se crea suciedad en la posicion (7,11)
+Se crea suciedad en la posicion (0,7)
+Se crea suciedad en la posicion (10,9)
+Se crea suciedad en la posicion (4,10)
+Se crea suciedad en la posicion (14,11)
+Se crea suciedad en la posicion (11,3)
+Se crea suciedad en la posicion (13,9)
+Se crea suciedad en la posicion (3,5)
+Se crea suciedad en la posicion (8,3)
+Se crea suciedad en la posicion (11,1)
+Se crea suciedad en la posicion (14,13)
+Se crea suciedad en la posicion (14,9)
+Se crea suciedad en la posicion (1,13)
+Se crea suciedad en la posicion (8,2)
+Se crea suciedad en la posicion (6,3)
+Se crea suciedad en la posicion (14,0)
+Se crea suciedad en la posicion (12,14)
+Se crea suciedad en la posicion (10,4)
+Se crea suciedad en la posicion (3,2)
+Se crea suciedad en la posicion (5,12)
+Se crea suciedad en la posicion (6,11)
+Se crea suciedad en la posicion (3,12)
+Se crea suciedad en la posicion (6,6)
+Se crea suciedad en la posicion (10,2)
+Se crea suciedad en la posicion (3,8)
+Se crea suciedad en la posicion (6,5)
+Se crea suciedad en la posicion (7,5)
+Se crea suciedad en la posicion (7,1)
+Se crea suciedad en la posicion (3,9)
+Se crea suciedad en la posicion (10,3)
+Se crea suciedad en la posicion (5,9)
+Se crea suciedad en la posicion (10,11)
+Creando obstaculos
+Se ubica obstaculo en la posicion (13,4)
+Se ubica obstaculo en la posicion (14,6)
+Se ubica obstaculo en la posicion (3,4)
+Se ubica obstaculo en la posicion (13,6)
+Se ubica obstaculo en la posicion (6,4)
+Se ubica obstaculo en la posicion (12,1)
+Se ubica obstaculo en la posicion (13,10)
+Se ubica obstaculo en la posicion (0,11)
+Se ubica obstaculo en la posicion (2,0)
+Se ubica obstaculo en la posicion (2,2)
+Se ubica obstaculo en la posicion (0,13)
+Se ubica obstaculo en la posicion (12,9)
+Se ubica obstaculo en la posicion (13,0)
+Se ubica obstaculo en la posicion (1,8)
+Se ubica obstaculo en la posicion (4,14)
+Se ubica obstaculo en la posicion (5,1)
+Se ubica obstaculo en la posicion (11,8)
+Se ubica obstaculo en la posicion (13,8)
+Se ubica obstaculo en la posicion (2,1)
+Se ubica obstaculo en la posicion (2,4)
+Se ubica obstaculo en la posicion (0,8)
+Se ubica obstaculo en la posicion (8,6)
+Se ubica obstaculo en la posicion (8,10)
+Se ubica obstaculo en la posicion (12,4)
+Se ubica obstaculo en la posicion (2,6)
+Se ubica obstaculo en la posicion (1,4)
+Se ubica obstaculo en la posicion (0,1)
+Se ubica obstaculo en la posicion (1,5)
+Se ubica obstaculo en la posicion (14,1)
+Se ubica obstaculo en la posicion (1,1)
+Se ubica obstaculo en la posicion (14,10)
+Se ubica obstaculo en la posicion (6,14)
+Se ubica obstaculo en la posicion (0,10)
+Se ubica obstaculo en la posicion (9,0)
+Se ubica obstaculo en la posicion (4,11)
+Se ubica obstaculo en la posicion (4,3)
+Se ubica obstaculo en la posicion (1,6)
+Se ubica obstaculo en la posicion (3,0)
+Se ubica obstaculo en la posicion (4,12)
+Se ubica obstaculo en la posicion (7,10)
+Se ubica obstaculo en la posicion (11,6)
+Se ubica obstaculo en la posicion (1,3)
+Se ubica obstaculo en la posicion (10,14)
+Se ubica obstaculo en la posicion (7,14)
+Se ubica obstaculo en la posicion (5,3)
+Se ubica obstaculo en la posicion (12,2)
+Se ubica obstaculo en la posicion (0,0)
+Se ubica obstaculo en la posicion (5,2)
+Se ubica obstaculo en la posicion (5,4)
+Se ubica obstaculo en la posicion (2,7)
+Se ubica obstaculo en la posicion (8,12)
+Se ubica obstaculo en la posicion (6,2)
+Se ubica obstaculo en la posicion (7,2)
+Se ubica obstaculo en la posicion (7,7)
+Se ubica obstaculo en la posicion (12,11)
+Se ubica obstaculo en la posicion (4,13)
+Se ubica obstaculo en la posicion (5,11)
+Se ubica obstaculo en la posicion (11,14)
+Se ubica obstaculo en la posicion (6,8)
+Se ubica obstaculo en la posicion (0,14)
+Se ubica obstaculo en la posicion (1,11)
+Ubicando Robots
+Se ubica el Robot en la posicion (7,12)
+El Robot se mueve a la posicion (7,11) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (1,14) no se mueve
+El niño de la posicion (8,14) no se mueve
+El niño de la posicion (8,8) no se mueve
+El niño de la posicion (7,3) no se mueve
+El niño de la posicion (5,7) no se mueve
+Se mueve niño de la posicion (11,5) a la posicion (11,6)
+El niño de la posicion (1,9) no se mueve
+Se mueve niño de la posicion (9,12) a la posicion (8,13)
+El niño de la posicion (7,6) no se mueve
+El niño de la posicion (2,9) no se mueve
+Se crea suciedad en la posicion (6,12)
+El Robot limpia la suciedad de la posicion (7,11)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (1,14) no se mueve
+El niño de la posicion (8,14) no se mueve
+Se mueve niño de la posicion (8,8) a la posicion (7,9)
+Se mueve niño de la posicion (7,3) a la posicion (7,4)
+Se mueve niño de la posicion (5,7) a la posicion (5,6)
+Se mueve niño de la posicion (11,6) a la posicion (10,7)
+Se mueve niño de la posicion (1,9) a la posicion (1,8)
+El niño de la posicion (8,13) no se mueve
+Se mueve niño de la posicion (7,6) a la posicion (7,7)
+El niño de la posicion (2,9) no se mueve
+Se crea suciedad en la posicion (8,11)
+Se crea suciedad en la posicion (9,14)
+Se crea suciedad en la posicion (6,13)
+Se crea suciedad en la posicion (8,7)
+Se crea suciedad en la posicion (10,12)
+Se crea suciedad en la posicion (14,2)
+El Robot se mueve a la posicion (6,11) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (1,14) no se mueve
+El niño de la posicion (8,14) no se mueve
+Se mueve niño de la posicion (7,9) a la posicion (6,10)
+El niño de la posicion (7,4) no se mueve
+Se mueve niño de la posicion (5,6) a la posicion (4,6)
+El niño de la posicion (10,7) no se mueve
+Se mueve niño de la posicion (1,8) a la posicion (1,7)
+El niño de la posicion (8,13) no se mueve
+El niño de la posicion (7,7) no se mueve
+Se mueve niño de la posicion (2,9) a la posicion (2,8)
+Se crea suciedad en la posicion (12,12)
+Se crea suciedad en la posicion (2,12)
+Se crea suciedad en la posicion (2,5)
+Se crea suciedad en la posicion (14,4)
+El Robot limpia la suciedad de la posicion (6,11)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (1,14) no se mueve
+El niño de la posicion (8,14) no se mueve
+Se mueve niño de la posicion (6,10) a la posicion (7,11)
+El niño de la posicion (7,4) no se mueve
+Se mueve niño de la posicion (4,6) a la posicion (5,6)
+El niño de la posicion (10,7) no se mueve
+El niño de la posicion (1,7) no se mueve
+El niño de la posicion (8,13) no se mueve
+Se mueve niño de la posicion (7,7) a la posicion (7,6)
+Se mueve niño de la posicion (2,8) a la posicion (3,7)
+Se crea suciedad en la posicion (6,10)
+Se crea suciedad en la posicion (4,8)
+Se crea suciedad en la posicion (2,9)
+Se crea suciedad en la posicion (14,12)
+Se crea suciedad en la posicion (1,12)
+Se crea suciedad en la posicion (10,1)
+El Robot se mueve y carga al niño de la posicion (7,11)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (1,14) no se mueve
+El niño de la posicion (8,14) no se mueve
+El niño de la posicion (7,4) no se mueve
+El niño de la posicion (5,6) no se mueve
+Se mueve niño de la posicion (10,7) a la posicion (11,7)
+El niño de la posicion (1,7) no se mueve
+Se mueve niño de la posicion (8,13) a la posicion (9,12)
+El niño de la posicion (7,6) no se mueve
+El niño de la posicion (3,7) no se mueve
+Se crea suciedad en la posicion (13,14)
+Se crea suciedad en la posicion (11,13)
+Se crea suciedad en la posicion (12,0)
+Se crea suciedad en la posicion (7,7)
+Se crea suciedad en la posicion (4,4)
+Se crea suciedad en la posicion (7,9)
+El Robot llega al corral de la posicion (9,10)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (1,14) no se mueve
+El niño de la posicion (8,14) no se mueve
+El niño de la posicion (7,4) no se mueve
+El niño de la posicion (5,6) no se mueve
+El niño de la posicion (11,7) no se mueve
+El niño de la posicion (1,7) no se mueve
+Se mueve niño de la posicion (9,12) a la posicion (8,12)
+El niño de la posicion (7,6) no se mueve
+Se mueve niño de la posicion (3,7) a la posicion (4,7)
+Se crea suciedad en la posicion (8,13)
+El Robot deja al niño en el corral de la posicion (9,10)
+Ocurre un cambio Natural De Ambiente
+Se mueve niño de la posicion (1,14) a la posicion (2,14)
+El niño de la posicion (8,14) no se mueve
+El niño de la posicion (7,4) no se mueve
+El niño de la posicion (5,6) no se mueve
+El niño de la posicion (11,7) no se mueve
+El niño de la posicion (1,7) no se mueve
+Se mueve niño de la posicion (8,12) a la posicion (9,11)
+El niño de la posicion (7,6) no se mueve
+Se mueve niño de la posicion (4,7) a la posicion (4,6)
+Se crea suciedad en la posicion (9,13)
+El Robot se mueve y carga al niño de la posicion (9,11)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (2,14) no se mueve
+Se mueve niño de la posicion (8,14) a la posicion (7,13)
+El niño de la posicion (7,4) no se mueve
+El niño de la posicion (5,6) no se mueve
+El niño de la posicion (11,7) no se mueve
+El niño de la posicion (1,7) no se mueve
+El niño de la posicion (7,6) no se mueve
+Se mueve niño de la posicion (4,6) a la posicion (3,6)
+Se crea suciedad en la posicion (14,7)
+Se crea suciedad en la posicion (11,2)
+Se crea suciedad en la posicion (8,14)
+Se crea suciedad en la posicion (7,11)
+El Robot llega al corral de la posicion (9,9)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (2,14) no se mueve
+El niño de la posicion (7,13) no se mueve
+El niño de la posicion (7,4) no se mueve
+El niño de la posicion (5,6) no se mueve
+El niño de la posicion (11,7) no se mueve
+El niño de la posicion (1,7) no se mueve
+El niño de la posicion (7,6) no se mueve
+El niño de la posicion (3,6) no se mueve
+Se crea suciedad en la posicion (5,14)
+Se crea suciedad en la posicion (4,7)
+Se crea suciedad en la posicion (11,6)
+Se crea suciedad en la posicion (8,9)
+El Robot deja al niño en el corral de la posicion (9,9)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (2,14) no se mueve
+El niño de la posicion (7,13) no se mueve
+El niño de la posicion (7,4) no se mueve
+El niño de la posicion (5,6) no se mueve
+El niño de la posicion (11,7) no se mueve
+El niño de la posicion (1,7) no se mueve
+El niño de la posicion (7,6) no se mueve
+El niño de la posicion (3,6) no se mueve
+Se crea suciedad en la posicion (10,7)
+Se crea suciedad en la posicion (2,3)
+Se crea suciedad en la posicion (14,8)
+El Robot se mueve a la posicion (10,9) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (2,14) no se mueve
+El niño de la posicion (7,13) no se mueve
+Se mueve niño de la posicion (7,4) a la posicion (8,4)
+El niño de la posicion (5,6) no se mueve
+El niño de la posicion (11,7) no se mueve
+Se mueve niño de la posicion (1,7) a la posicion (2,8)
+El niño de la posicion (7,6) no se mueve
+El niño de la posicion (3,6) no se mueve
+Ocurre un Cambio Aleatorio De Ambiente
+Reubicando elementos
+Se ubica corral vacio en la posicion (12,10)
+Se ubica corral vacio en la posicion (12,11)
+Se ubica corral vacio en la posicion (12,12)
+Se ubica corral vacio en la posicion (12,13)
+Se ubica corral vacio en la posicion (12,14)
+Se ubica corral vacio en la posicion (13,14)
+Se ubica corral vacio en la posicion (13,13)
+Se ubica corral vacio en la posicion (13,12)
+Se ubica corral ocupado en la posicion (13,11)
+Se ubica corral ocupado en la posicion (13,10)
+Se ubica obstaculo en la posicion (1,12)
+Se ubica obstaculo en la posicion (1,1)
+Se ubica obstaculo en la posicion (12,2)
+Se ubica obstaculo en la posicion (4,10)
+Se ubica obstaculo en la posicion (13,2)
+Se ubica obstaculo en la posicion (4,6)
+Se ubica obstaculo en la posicion (14,12)
+Se ubica obstaculo en la posicion (7,0)
+Se ubica obstaculo en la posicion (6,7)
+Se ubica obstaculo en la posicion (3,6)
+Se ubica obstaculo en la posicion (5,11)
+Se ubica obstaculo en la posicion (4,5)
+Se ubica obstaculo en la posicion (3,13)
+Se ubica obstaculo en la posicion (5,0)
+Se ubica obstaculo en la posicion (4,7)
+Se ubica obstaculo en la posicion (1,13)
+Se ubica obstaculo en la posicion (0,6)
+Se ubica obstaculo en la posicion (13,4)
+Se ubica obstaculo en la posicion (12,4)
+Se ubica obstaculo en la posicion (3,0)
+Se ubica obstaculo en la posicion (0,9)
+Se ubica obstaculo en la posicion (8,2)
+Se ubica obstaculo en la posicion (10,8)
+Se ubica obstaculo en la posicion (7,7)
+Se ubica obstaculo en la posicion (5,10)
+Se ubica obstaculo en la posicion (6,4)
+Se ubica obstaculo en la posicion (12,7)
+Se ubica obstaculo en la posicion (5,4)
+Se ubica obstaculo en la posicion (5,5)
+Se ubica obstaculo en la posicion (1,5)
+Se ubica obstaculo en la posicion (5,7)
+Se ubica obstaculo en la posicion (14,3)
+Se ubica obstaculo en la posicion (3,1)
+Se ubica obstaculo en la posicion (3,3)
+Se ubica obstaculo en la posicion (6,10)
+Se ubica obstaculo en la posicion (14,9)
+Se ubica obstaculo en la posicion (12,0)
+Se ubica obstaculo en la posicion (3,12)
+Se ubica obstaculo en la posicion (7,11)
+Se ubica obstaculo en la posicion (3,11)
+Se ubica obstaculo en la posicion (8,5)
+Se ubica obstaculo en la posicion (14,8)
+Se ubica obstaculo en la posicion (7,5)
+Se ubica obstaculo en la posicion (10,11)
+Se ubica obstaculo en la posicion (9,4)
+Se ubica obstaculo en la posicion (4,2)
+Se ubica obstaculo en la posicion (1,2)
+Se ubica obstaculo en la posicion (10,13)
+Se ubica obstaculo en la posicion (10,7)
+Se ubica obstaculo en la posicion (12,8)
+Se ubica obstaculo en la posicion (2,5)
+Se ubica obstaculo en la posicion (11,12)
+Se ubica obstaculo en la posicion (11,13)
+Se ubica obstaculo en la posicion (7,10)
+Se ubica obstaculo en la posicion (7,8)
+Se ubica obstaculo en la posicion (2,2)
+Se ubica obstaculo en la posicion (9,6)
+Se ubica obstaculo en la posicion (1,3)
+Se ubica obstaculo en la posicion (3,4)
+Se ubica obstaculo en la posicion (9,2)
+Se ubica obstaculo en la posicion (4,12)
+Se crea suciedad en la posicion (8,3)
+Se crea suciedad en la posicion (7,6)
+Se crea suciedad en la posicion (6,2)
+Se crea suciedad en la posicion (9,8)
+Se crea suciedad en la posicion (2,0)
+Se crea suciedad en la posicion (9,9)
+Se crea suciedad en la posicion (5,9)
+Se crea suciedad en la posicion (10,6)
+Se crea suciedad en la posicion (1,7)
+Se crea suciedad en la posicion (2,4)
+Se crea suciedad en la posicion (4,4)
+Se crea suciedad en la posicion (4,11)
+Se crea suciedad en la posicion (7,13)
+Se crea suciedad en la posicion (10,1)
+Se crea suciedad en la posicion (8,7)
+Se crea suciedad en la posicion (11,7)
+Se crea suciedad en la posicion (14,7)
+Se crea suciedad en la posicion (1,9)
+Se crea suciedad en la posicion (8,1)
+Se crea suciedad en la posicion (8,13)
+Se crea suciedad en la posicion (13,3)
+Se crea suciedad en la posicion (13,5)
+Se crea suciedad en la posicion (12,6)
+Se crea suciedad en la posicion (11,3)
+Se crea suciedad en la posicion (1,6)
+Se crea suciedad en la posicion (14,0)
+Se crea suciedad en la posicion (5,8)
+Se crea suciedad en la posicion (6,3)
+Se crea suciedad en la posicion (6,6)
+Se crea suciedad en la posicion (3,2)
+Se crea suciedad en la posicion (3,5)
+Se crea suciedad en la posicion (7,3)
+Se crea suciedad en la posicion (11,9)
+Se crea suciedad en la posicion (9,7)
+Se crea suciedad en la posicion (0,11)
+Se crea suciedad en la posicion (13,8)
+Se crea suciedad en la posicion (13,6)
+Se crea suciedad en la posicion (3,7)
+Se crea suciedad en la posicion (10,10)
+Se crea suciedad en la posicion (10,4)
+Se crea suciedad en la posicion (7,4)
+Se crea suciedad en la posicion (8,9)
+Se crea suciedad en la posicion (10,12)
+Se crea suciedad en la posicion (13,1)
+Se crea suciedad en la posicion (10,0)
+Se crea suciedad en la posicion (13,0)
+Se crea suciedad en la posicion (11,0)
+Se crea suciedad en la posicion (14,1)
+Se crea suciedad en la posicion (0,13)
+Se crea suciedad en la posicion (4,8)
+Se crea suciedad en la posicion (2,9)
+Se crea suciedad en la posicion (6,1)
+Se crea suciedad en la posicion (7,12)
+Se crea suciedad en la posicion (0,2)
+Se crea suciedad en la posicion (14,4)
+Se crea suciedad en la posicion (4,1)
+Se crea suciedad en la posicion (4,3)
+Se crea suciedad en la posicion (2,12)
+Se crea suciedad en la posicion (11,10)
+Se crea suciedad en la posicion (0,10)
+Se crea suciedad en la posicion (1,4)
+Se crea suciedad en la posicion (9,3)
+Se crea suciedad en la posicion (12,5)
+Se crea suciedad en la posicion (14,14)
+Se crea suciedad en la posicion (4,14)
+Se crea suciedad en la posicion (1,10)
+Se crea suciedad en la posicion (7,9)
+Se crea suciedad en la posicion (9,0)
+Se crea suciedad en la posicion (11,1)
+Se crea suciedad en la posicion (5,12)
+Se crea suciedad en la posicion (14,5)
+Se crea suciedad en la posicion (2,1)
+Se crea suciedad en la posicion (11,11)
+Se crea suciedad en la posicion (6,13)
+Se crea suciedad en la posicion (11,6)
+Se crea suciedad en la posicion (5,13)
+Se crea suciedad en la posicion (6,5)
+Se crea suciedad en la posicion (10,2)
+Se crea suciedad en la posicion (9,5)
+Se crea suciedad en la posicion (2,3)
+Se crea suciedad en la posicion (9,11)
+Se crea suciedad en la posicion (9,13)
+Se crea suciedad en la posicion (7,14)
+Se crea suciedad en la posicion (2,13)
+Se crea suciedad en la posicion (1,11)
+Se ubica niño en la posicion (2,6)
+Se ubica niño en la posicion (5,2)
+Se ubica niño en la posicion (9,10)
+Se ubica niño en la posicion (11,8)
+Se ubica niño en la posicion (10,3)
+Se ubica niño en la posicion (4,9)
+Se ubica niño en la posicion (14,10)
+Se ubica niño en la posicion (6,14)
+El Robot se mueve a la posicion (9,9) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (2,6) no se mueve
+El niño de la posicion (5,2) no se mueve
+Se mueve niño de la posicion (9,10) a la posicion (8,11)
+El niño de la posicion (11,8) no se mueve
+El niño de la posicion (10,3) no se mueve
+Se mueve niño de la posicion (4,9) a la posicion (3,10)
+Se mueve niño de la posicion (14,10) a la posicion (14,11)
+El niño de la posicion (6,14) no se mueve
+Se crea suciedad en la posicion (1,0)
+El Robot limpia la suciedad de la posicion (9,9)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (2,6) no se mueve
+El niño de la posicion (5,2) no se mueve
+Se mueve niño de la posicion (8,11) a la posicion (7,10)
+El niño de la posicion (11,8) no se mueve
+El niño de la posicion (10,3) no se mueve
+Se mueve niño de la posicion (3,10) a la posicion (3,9)
+El niño de la posicion (14,11) no se mueve
+El niño de la posicion (6,14) no se mueve
+Se crea suciedad en la posicion (5,6)
+Se crea suciedad en la posicion (4,9)
+Se crea suciedad en la posicion (6,12)
+Se crea suciedad en la posicion (10,5)
+Se crea suciedad en la posicion (8,10)
+Se crea suciedad en la posicion (2,8)
+Se despide al robot.
+Termina Simulacion

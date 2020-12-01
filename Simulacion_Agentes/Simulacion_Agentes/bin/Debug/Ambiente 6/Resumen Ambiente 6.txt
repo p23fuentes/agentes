@@ -1,0 +1,3 @@
+El porciento medio de casillas sucias fue: 37,2222222222222
+El robot fue despedido 26 veces
+El robot limpio la casa y coloco los niños 4 veces

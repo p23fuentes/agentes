@@ -1,0 +1,56 @@
+Creando corral
+Se ubica corral vacio en la posicion (5,4)
+Creando ninos
+Se ubica niño en la posicion (4,0)
+Creando suciedad inicial
+Se crea suciedad en la posicion (5,2)
+Se crea suciedad en la posicion (4,3)
+Creando obstaculos
+Se ubica obstaculo en la posicion (3,1)
+Se ubica obstaculo en la posicion (3,3)
+Ubicando Robots
+Se ubica el Robot en la posicion (2,2)
+El Robot se mueve a la posicion (2,2)
+Ocurre un cambio Natural De Ambiente
+Se mueve niño de la posicion (4,0) a la posicion (4,1)
+Se crea suciedad en la posicion (4,0)
+El Robot se mueve y carga al niño de la posicion (4,1)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (4,1)
+Ocurre un cambio Natural De Ambiente
+El Robot llega al corral de la posicion (5,4)
+Ocurre un cambio Natural De Ambiente
+El Robot deja al niño en el corral de la posicion (5,4)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (4,3) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+El Robot limpia la suciedad de la posicion (4,3)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (5,2) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+El Robot limpia la suciedad de la posicion (5,2)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (5,2)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (4,0) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+Ocurre un Cambio Aleatorio De Ambiente
+Reubicando elementos
+Se ubica corral ocupado en la posicion (1,2)
+Se ubica obstaculo en la posicion (3,0)
+Se ubica obstaculo en la posicion (3,1)
+Se crea suciedad en la posicion (0,3)
+El Robot se mueve a la posicion (4,0)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (4,1)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (3,2)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (2,3)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (0,3) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+El Robot limpia la suciedad de la posicion (0,3)
+Ocurre un cambio Natural De Ambiente
+El robot cumplio con su objetivo.
+Termina Simulacion

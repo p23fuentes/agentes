@@ -1,0 +1,206 @@
+Creando corral
+Se ubica corral vacio en la posicion (4,4)
+Se ubica corral vacio en la posicion (4,3)
+Creando ninos
+Se ubica niño en la posicion (5,2)
+Se ubica niño en la posicion (0,3)
+Creando suciedad inicial
+Se crea suciedad en la posicion (0,1)
+Se crea suciedad en la posicion (5,3)
+Creando obstaculos
+Se ubica obstaculo en la posicion (0,0)
+Se ubica obstaculo en la posicion (2,4)
+Se ubica obstaculo en la posicion (5,0)
+Se ubica obstaculo en la posicion (4,2)
+Se ubica obstaculo en la posicion (1,0)
+Ubicando Robots
+Se ubica el Robot en la posicion (2,3)
+El Robot se mueve a la posicion (2,3)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (5,2) no se mueve
+Se mueve niño de la posicion (0,3) a la posicion (0,4)
+Se crea suciedad en la posicion (1,1)
+Se crea suciedad en la posicion (3,4)
+El Robot se mueve y carga al niño de la posicion (0,4)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (5,2) no se mueve
+Se crea suciedad en la posicion (3,2)
+El Robot se mueve a la posicion (0,4)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (5,2) no se mueve
+Se crea suciedad en la posicion (4,1)
+El Robot llega al corral de la posicion (4,3)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (5,2) no se mueve
+El Robot deja al niño en el corral de la posicion (4,3)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (5,2) no se mueve
+Se crea suciedad en la posicion (4,0)
+El Robot se mueve a la posicion (5,3) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (5,2) no se mueve
+Se crea suciedad en la posicion (1,3)
+El Robot limpia la suciedad de la posicion (5,3)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (5,2) no se mueve
+El Robot se mueve y carga al niño de la posicion (5,2)
+Ocurre un cambio Natural De Ambiente
+El Robot llega al corral de la posicion (4,4)
+Ocurre un cambio Natural De Ambiente
+El Robot deja al niño en el corral de la posicion (4,4)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (3,4) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+Ocurre un Cambio Aleatorio De Ambiente
+Reubicando elementos
+Se ubica corral ocupado en la posicion (3,2)
+Se ubica corral ocupado en la posicion (3,3)
+Se ubica obstaculo en la posicion (2,1)
+Se ubica obstaculo en la posicion (0,0)
+Se ubica obstaculo en la posicion (4,1)
+Se ubica obstaculo en la posicion (4,4)
+Se ubica obstaculo en la posicion (1,3)
+Se crea suciedad en la posicion (1,2)
+Se crea suciedad en la posicion (0,3)
+Se crea suciedad en la posicion (5,2)
+Se crea suciedad en la posicion (2,4)
+Se crea suciedad en la posicion (5,3)
+Se crea suciedad en la posicion (0,1)
+Se crea suciedad en la posicion (4,0)
+El Robot se mueve a la posicion (2,4) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+El Robot limpia la suciedad de la posicion (2,4)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (2,4)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (1,2) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+El Robot limpia la suciedad de la posicion (1,2)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (0,3) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+El Robot limpia la suciedad de la posicion (0,3)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (0,3)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (0,1) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+El Robot limpia la suciedad de la posicion (0,1)
+Ocurre un cambio Natural De Ambiente
+Ocurre un Cambio Aleatorio De Ambiente
+Reubicando elementos
+Se ubica corral ocupado en la posicion (3,3)
+Se ubica corral ocupado en la posicion (3,4)
+Se ubica obstaculo en la posicion (4,1)
+Se ubica obstaculo en la posicion (1,4)
+Se ubica obstaculo en la posicion (3,1)
+Se ubica obstaculo en la posicion (0,4)
+Se ubica obstaculo en la posicion (5,0)
+Se crea suciedad en la posicion (4,2)
+Se crea suciedad en la posicion (4,0)
+Se crea suciedad en la posicion (2,0)
+Se ubica niño en la posicion (2,2)
+El Robot se mueve a la posicion (0,1)
+Ocurre un cambio Natural De Ambiente
+Se mueve niño de la posicion (2,2) a la posicion (1,3)
+Se crea suciedad en la posicion (2,2)
+El Robot se mueve y carga al niño de la posicion (1,3)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (1,3)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (0,3)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (0,2)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (0,1)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (0,0)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (0,1)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (0,0)
+Ocurre un cambio Natural De Ambiente
+El Robot se mueve a la posicion (0,1)
+Ocurre un cambio Natural De Ambiente
+Ocurre un Cambio Aleatorio De Ambiente
+Reubicando elementos
+Se ubica corral ocupado en la posicion (3,3)
+Se ubica corral ocupado en la posicion (3,4)
+Se ubica obstaculo en la posicion (0,1)
+Se ubica obstaculo en la posicion (4,4)
+Se ubica obstaculo en la posicion (2,0)
+Se ubica obstaculo en la posicion (1,3)
+Se ubica obstaculo en la posicion (3,1)
+Se crea suciedad en la posicion (3,2)
+Se crea suciedad en la posicion (2,4)
+Se crea suciedad en la posicion (1,0)
+Se crea suciedad en la posicion (5,2)
+Se ubica niño en la posicion (2,3)
+El Robot se mueve a la posicion (1,0) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (2,3) no se mueve
+Se crea suciedad en la posicion (2,1)
+El Robot se mueve a la posicion (1,0)
+Ocurre un cambio Natural De Ambiente
+Se mueve niño de la posicion (2,3) a la posicion (1,2)
+Se crea suciedad en la posicion (1,4)
+El Robot se mueve a la posicion (1,0) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (1,2) no se mueve
+Se crea suciedad en la posicion (2,3)
+El Robot se mueve a la posicion (1,0)
+Ocurre un cambio Natural De Ambiente
+Se mueve niño de la posicion (1,2) a la posicion (1,1)
+Se crea suciedad en la posicion (0,4)
+El Robot se mueve a la posicion (1,0) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+Se mueve niño de la posicion (1,1) a la posicion (1,2)
+El Robot se mueve a la posicion (1,0)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (1,2) no se mueve
+Se crea suciedad en la posicion (5,1)
+El Robot se mueve a la posicion (1,0) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (1,2) no se mueve
+El Robot se mueve a la posicion (1,0)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (1,2) no se mueve
+Se crea suciedad en la posicion (4,2)
+El Robot se mueve a la posicion (1,0) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (1,2) no se mueve
+El Robot se mueve a la posicion (1,0)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (1,2) no se mueve
+Se crea suciedad en la posicion (0,2)
+Ocurre un Cambio Aleatorio De Ambiente
+Reubicando elementos
+Se ubica corral ocupado en la posicion (1,3)
+Se ubica corral ocupado en la posicion (1,4)
+Se ubica obstaculo en la posicion (4,3)
+Se ubica obstaculo en la posicion (3,1)
+Se ubica obstaculo en la posicion (0,1)
+Se ubica obstaculo en la posicion (2,1)
+Se ubica obstaculo en la posicion (5,0)
+Se crea suciedad en la posicion (3,0)
+Se crea suciedad en la posicion (2,3)
+Se crea suciedad en la posicion (0,4)
+Se crea suciedad en la posicion (3,3)
+Se crea suciedad en la posicion (0,2)
+Se crea suciedad en la posicion (3,2)
+Se crea suciedad en la posicion (1,0)
+Se crea suciedad en la posicion (3,4)
+Se crea suciedad en la posicion (1,1)
+Se crea suciedad en la posicion (2,4)
+Se crea suciedad en la posicion (5,4)
+Se ubica niño en la posicion (2,2)
+El Robot se mueve a la posicion (1,0) donde hay suciedad
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (2,2) no se mueve
+Se crea suciedad en la posicion (4,2)
+El Robot se mueve a la posicion (1,0)
+Ocurre un cambio Natural De Ambiente
+El niño de la posicion (2,2) no se mueve
+Se crea suciedad en la posicion (5,1)
+Se despide al robot.
+Termina Simulacion

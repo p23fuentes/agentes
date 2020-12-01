@@ -1,0 +1,13 @@
+Creando corral
+Se ubica corral vacio en la posicion (0,2)
+Creando ninos
+Se ubica niño en la posicion (1,0)
+Creando suciedad inicial
+Creando obstaculos
+Se ubica obstaculo en la posicion (4,2)
+Ubicando Robots
+Se ubica el Robot en la posicion (2,1)
+El Robot se mueve y carga al niño de la posicion (1,0)
+Ocurre un cambio Natural De Ambiente
+El robot cumplio con su objetivo.
+Termina Simulacion
